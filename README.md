@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayasoleimani
 - 👀 I’m a Computer Science Graduate from the University of Michigan
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Operating Systems
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me, linkedin.com/in/mayasoleimani or msoleima@umich.edu
 
