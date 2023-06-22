@@ -2,7 +2,7 @@
 - 👀 I’m a Computer Science Graduate from the University of Michigan
 - 🌱 I’m currently learning Operating Systems
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me, linkedin.com/in/mayasoleimani or msoleima@umich.edu
+- 📫 How to reach me, linkedin.com/in/mayasoleimani 
 
 <!---
 mayasoleimani/mayasoleimani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
